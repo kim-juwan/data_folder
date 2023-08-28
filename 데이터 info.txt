@@ -1,0 +1,26 @@
+youtube - 유튜브 인기동영상 데이터
+worldcupgoals - 월드컵 출전 선수 골기록 데이터
+seoul_bi - 서울시 따릉이 이용정보 데이터
+happiness - 전세계 행복도 지표 데이터
+Tetuan_City_Power - 지역구 에너지 소비량 데이터
+body - 대한민국 체력장 데이터
+weather2 - 기온 강수량 데이터
+churn - 서비스 이탈예측 데이터
+smoke - 성인 건강검진 데이터
+insurance - 자동차 보험가입 예측 데이터
+mobile - 핸드폰 가격 예측 데이터
+airline - 비행탑승 경험 만족도 데이터
+water - 수질 음용성 여부 데이터
+MedicalCost - 의료 비용 예측 데이터
+Kingcountyprice - 킹카운티 주거지 가격 예측 데이터
+admission - 대학원 입학가능성 데이터
+redwine - 레드 와인 퀄리티 예측 데이터
+drug - 약물 분류 데이터
+audit - 사기회사 분류 데이터
+muscle - 센서 데이터 동작유형 분류 데이터
+hyundai - 현대 차량 가격 분류 데이터
+diabetes - 당뇨여부 판단 데이터
+NFLX - 넥플릭스 주식 데이터
+nba - nba 선수 능력치 데이터
+HRdata - 이적여부 판단 데이터
+shipment_trn - 정시 배송 여부 판단 데이터

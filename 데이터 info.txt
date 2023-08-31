@@ -25,4 +25,5 @@ nba - nba 선수 능력치 데이터
 HRdata - 이적여부 판단 데이터
 shipment_trn - 정시 배송 여부 판단 데이터
 carsprice - 중고차 가격 예측 데이터
-Invistico_Airline - 항공권 가격 예측 데이터
+Invistico_Airline - 비행 탑승 만족도 조사 데이터 
+flight_price - 항공권 가격 예측 데이터
